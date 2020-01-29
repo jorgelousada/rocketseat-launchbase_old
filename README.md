@@ -1,7 +1,7 @@
 ## 1 - Introdução a programação (FASE 2)
-- [ ] Iniciando com a programação web
-- [ ] Iniciando no JavaScript
-- [ ] Comentários, Strings e Numbers
+- [x] Iniciando com a programação web
+- [x] Iniciando no JavaScript
+- [x] Comentários, Strings e Numbers
 - [ ] Fazendo cálculos com JavaScript
 - [ ] Condicionais
 - [ ] Operadores relacionais e comparativos
