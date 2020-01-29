@@ -1,4 +1,4 @@
-## 1 - Introdução a programação (Módulo 2)
+## 1 - Introdução a programação (Módulo 2) :heavy_check_mark:
 
 - [x] Iniciando com a programação web
 - [x] Iniciando no JavaScript
