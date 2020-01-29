@@ -1,4 +1,4 @@
-## 1 - Introdução a programação (FASE 2)
+## 1 - Introdução a programação (Módulo 2)
 
 - [x] Iniciando com a programação web
 - [x] Iniciando no JavaScript
@@ -19,7 +19,7 @@
 - [ ] Desafio - 03
 - [ ] Desafio - 04
 
-## 2 - Iniciando no Front-end (FASE 3)
+## 2 - Iniciando no Front-end (Módulo 3)
 #####  Primeiro projeto com HTML e CSS
 - [ ] O que é Back end e Front end
 - [ ] Iniciando no HTML
