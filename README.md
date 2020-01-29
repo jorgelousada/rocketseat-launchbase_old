@@ -1,4 +1,4 @@
-## 1 - Introdução a programação (Módulo 2) :heavy_check_mark:
+## 1 - Introdução a programação (Módulo 2)​ :heavy_check_mark:
 
 - [x] Iniciando com a programação web
 - [x] Iniciando no JavaScript
@@ -32,3 +32,11 @@
 - [ ] Conhecendo a cascata do CSS
 - [ ] Estilizando fontes e links do menu
 - [ ] Desafio 2-1
+#####  Página sobre
+- [ ] Adicionando imagens no HTML
+- [ ] Separando e importando estilos
+- [ ] Trabalhando com texto no HTML
+- [ ] Estilizando textos e fontes com CSS
+- [ ] Variáveis no CSS
+- [ ] Links para redes socias
+- [ ] Desafio 2-2
