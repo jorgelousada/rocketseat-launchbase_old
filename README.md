@@ -1,0 +1,19 @@
+## 1 - Introdução a programação (FASE 2)
+- [ ] Iniciando com a programação web
+- [ ] Iniciando no JavaScript
+- [ ] Comentários, Strings e Numbers
+- [ ] Fazendo cálculos com JavaScript
+- [ ] Condicionais
+- [ ] Operadores relacionais e comparativos
+- [ ] Operadores lógicos e aritméticos
+- [ ] Objetos
+- [ ] Vetores
+- [ ] Funções e métodos
+- [ ] Estrutura de repetição
+- [ ] Escopos
+- [ ] Booleanos
+- [ ] Organização, padronização e escrita
+- [ ] Desafio - 01
+- [ ] Desafio - 02
+- [ ] Desafio - 03
+- [ ] Desafio - 04
