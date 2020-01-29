@@ -6,8 +6,8 @@
 - [x] Condicionais
 - [x] Operadores relacionais e comparativos
 - [x] Operadores lógicos e aritméticos
-- [ ] Objetos
-- [ ] Vetores
+- [x] Objetos
+- [x] Vetores
 - [ ] Funções e métodos
 - [ ] Estrutura de repetição
 - [ ] Escopos
