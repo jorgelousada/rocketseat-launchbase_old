@@ -2,7 +2,6 @@
     Aula sobre Vetores
 */
 
-
 // É possivel ter um vetor de objetos já que objeto é um tipo.
 const alunos = [
     {
