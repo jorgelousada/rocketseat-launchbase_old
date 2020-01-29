@@ -2,9 +2,9 @@
 - [x] Iniciando com a programação web
 - [x] Iniciando no JavaScript
 - [x] Comentários, Strings e Numbers
-- [ ] Fazendo cálculos com JavaScript
-- [ ] Condicionais
-- [ ] Operadores relacionais e comparativos
+- [x] Fazendo cálculos com JavaScript
+- [x] Condicionais
+- [x] Operadores relacionais e comparativos
 - [ ] Operadores lógicos e aritméticos
 - [ ] Objetos
 - [ ] Vetores
