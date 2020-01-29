@@ -12,12 +12,12 @@
 - [x] Funções e métodos
 - [x] Estrutura de repetição
 - [x] Escopos
-- [ ] Booleanos
-- [ ] Organização, padronização e escrita
+- [x] Booleanos
+- [x] Organização, padronização e escrita
 - [x] Desafio - 01 (https://bit.ly/2O8hUAC)
 - [x] Desafio - 02 (https://bit.ly/37DHGEG)
 - [x] Desafio - 03 (https://bit.ly/3aQnXU5)
-- [ ] Desafio - 04
+- [x] Desafio - 04 (https://bit.ly/2GxlZtT)
 
 ## 2 - Iniciando no Front-end (Módulo 3)
 #####  Primeiro projeto com HTML e CSS
