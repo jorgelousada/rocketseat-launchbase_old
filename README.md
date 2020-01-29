@@ -9,7 +9,7 @@
 - [x] Operadores lógicos e aritméticos
 - [x] Objetos
 - [x] Vetores
-- [ ] Funções e métodos
+- [x] Funções e métodos
 - [ ] Estrutura de repetição
 - [ ] Escopos
 - [ ] Booleanos
