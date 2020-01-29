@@ -16,7 +16,7 @@
 - [ ] Organização, padronização e escrita
 - [x] Desafio - 01 (https://bit.ly/2O8hUAC)
 - [x] Desafio - 02 (https://bit.ly/37DHGEG)
-- [ ] Desafio - 03
+- [x] Desafio - 03 (https://bit.ly/3aQnXU5)
 - [ ] Desafio - 04
 
 ## 2 - Iniciando no Front-end (Módulo 3)
