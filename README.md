@@ -10,8 +10,8 @@
 - [x] Objetos
 - [x] Vetores
 - [x] Funções e métodos
-- [ ] Estrutura de repetição
-- [ ] Escopos
+- [x] Estrutura de repetição
+- [x] Escopos
 - [ ] Booleanos
 - [ ] Organização, padronização e escrita
 - [x] Desafio - 01 (https://bit.ly/2O8hUAC)
