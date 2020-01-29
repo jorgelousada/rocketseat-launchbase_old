@@ -14,6 +14,6 @@
 - [ ] Booleanos
 - [ ] Organização, padronização e escrita
 - [x] Desafio - 01 (https://bit.ly/2O8hUAC)
-- [ ] Desafio - 02
+- [x] Desafio - 02 (https://bit.ly/37DHGEG)
 - [ ] Desafio - 03
 - [ ] Desafio - 04
