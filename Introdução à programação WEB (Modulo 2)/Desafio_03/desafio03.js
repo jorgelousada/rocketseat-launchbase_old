@@ -19,7 +19,7 @@ for (usuario of usuarios) {
 // Busca por tecnologia
 function checaSeUsuarioUsaCSS(usuario) {
     let usaCSS;
-    for (tecnologia of usuario.tecnologias) {
+    for (let tecnologia of usuario.tecnologias) {
         if (tecnologia == 'CSS') {
             usaCSS = true;
         } else {
@@ -57,7 +57,7 @@ const usuarios2 = [
 
 function somaNumeros(numeros) {
     let soma = 0;
-    for (numero of numeros) {
+    for (let numero of numeros) {
         soma += numero;
     }
     return soma;

@@ -36,7 +36,7 @@ const alunosDaTurmaB = [
 
 function calculaMedia(alunos) {
     var media = 0;
-    for (aluno of alunos) {
+    for (let aluno of alunos) {
         media = media + aluno.nota;
     }
     return (media / alunos.length);
