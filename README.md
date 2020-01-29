@@ -5,7 +5,7 @@
 - [x] Fazendo cálculos com JavaScript
 - [x] Condicionais
 - [x] Operadores relacionais e comparativos
-- [ ] Operadores lógicos e aritméticos
+- [x] Operadores lógicos e aritméticos
 - [ ] Objetos
 - [ ] Vetores
 - [ ] Funções e métodos
@@ -13,7 +13,7 @@
 - [ ] Escopos
 - [ ] Booleanos
 - [ ] Organização, padronização e escrita
-- [ ] Desafio - 01
+- [x] Desafio - 01 (https://bit.ly/2O8hUAC)
 - [ ] Desafio - 02
 - [ ] Desafio - 03
 - [ ] Desafio - 04
