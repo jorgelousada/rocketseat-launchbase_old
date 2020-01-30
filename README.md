@@ -21,12 +21,12 @@
 
 ## 2 - Iniciando no Front-end (Módulo 3)
 #####  Primeiro projeto com HTML e CSS
-- [ ] O que é Back end e Front end
-- [ ] Iniciando no HTML
-- [ ] Desenvolvendo com Live Server
-- [ ] Iniciando com CSS
+- [x] O que é Back end e Front end
+- [x] Iniciando no HTML
+- [x] Desenvolvendo com Live Server
+- [x] Iniciando com CSS
 #####  Menu do site
-- [ ] Criando estrutura do menu com HTML
+- [x] Criando estrutura do menu com HTML
 - [ ] Espaçamento com CSS
 - [ ] Resetando estilos do navegador
 - [ ] Conhecendo a cascata do CSS
