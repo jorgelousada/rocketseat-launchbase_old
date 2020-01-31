@@ -27,11 +27,11 @@
 - [x] Iniciando com CSS
 #####  Menu do site
 - [x] Criando estrutura do menu com HTML
-- [ ] Espaçamento com CSS
-- [ ] Resetando estilos do navegador
-- [ ] Conhecendo a cascata do CSS
-- [ ] Estilizando fontes e links do menu
-- [ ] Desafio 2-1
+- [x] Espaçamento com CSS
+- [x] Resetando estilos do navegador
+- [x] Conhecendo a cascata do CSS
+- [x] Estilizando fontes e links do menu
+- [x] Desafio 2-1
 #####  Página sobre
 - [ ] Adicionando imagens no HTML
 - [ ] Separando e importando estilos
