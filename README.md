@@ -33,10 +33,10 @@
 - [x] Estilizando fontes e links do menu
 - [x] Desafio 2-1
 #####  Página sobre
-- [ ] Adicionando imagens no HTML
-- [ ] Separando e importando estilos
-- [ ] Trabalhando com texto no HTML
-- [ ] Estilizando textos e fontes com CSS
-- [ ] Variáveis no CSS
-- [ ] Links para redes socias
+- [x] Adicionando imagens no HTML
+- [x] Separando e importando estilos
+- [x] Trabalhando com texto no HTML
+- [x] Estilizando textos e fontes com CSS
+- [x] Variáveis no CSS
+- [x] Links para redes socias
 - [ ] Desafio 2-2
