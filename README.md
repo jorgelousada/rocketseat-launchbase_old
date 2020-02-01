@@ -39,4 +39,4 @@
 - [x] Estilizando textos e fontes com CSS
 - [x] Variáveis no CSS
 - [x] Links para redes socias
-- [ ] Desafio 2-2
+- [x] Desafio 2-2
