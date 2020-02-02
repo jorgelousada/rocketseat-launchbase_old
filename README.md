@@ -34,9 +34,27 @@
 - [x] Desafio 2-1
 #####  Página sobre
 - [x] Adicionando imagens no HTML
+
 - [x] Separando e importando estilos
+
 - [x] Trabalhando com texto no HTML
+
 - [x] Estilizando textos e fontes com CSS
+
 - [x] Variáveis no CSS
+
 - [x] Links para redes socias
+
 - [x] Desafio 2-2
+
+#####  Página de portfólio
+
+  - [x] Iniciando página de portfólio
+  - [x]  Estilizando os cards
+  - [x] Posicionando elementos HTML com CSS grid
+
+#####  Modal
+
+  - [x] Sobreposição de conteúdo HTML com CSS
+  - [x]  Adicionando janela pop-up no estilo modal
+  - [x] Escondendo elementos com CSS
