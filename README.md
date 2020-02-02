@@ -58,3 +58,14 @@
   - [x] Sobreposição de conteúdo HTML com CSS
   - [x]  Adicionando janela pop-up no estilo modal
   - [x] Escondendo elementos com CSS
+
+#####  Controlando modal com JavaScript
+
+  - [x] Selecionando elementos da DOM
+  - [x] Manipulando a DOM
+
+#####  Vídeo dinâmico
+
+  - [ ] Adicionando conteúdo externo com iframe
+  - [ ] Substituindo conteúdo com JavaScript
+  - [ ] Desafio 2-3
